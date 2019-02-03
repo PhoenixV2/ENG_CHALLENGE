@@ -12,7 +12,7 @@
     - Folded Sheet Metal
       - Cheap
       - Easy manufacture techniques, will still require post processing to test for burrs and add nutserts
-      - Housing caan be used for secondary grounding (double protection)
+      - Housing can be used for secondary grounding (double protection)
 
 Folded Sheet Metal was chosen due to ease and cost of manufacture.
 - Use 0.9mm 300 series stainless steel to prevent corrosion
