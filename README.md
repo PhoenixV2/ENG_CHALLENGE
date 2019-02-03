@@ -25,6 +25,8 @@ M3 standoffs are used to provide space between the base plate of the housing and
 
 M3 or smaller (M2/M2.5) Nutserts used for fixturing the two housing components together (approx $4 for 10)
 
+Slotted tabs on the front and rear faces to allow mounting
+
 Slots have been cut into the sides of the housing to allow airflow and keep the power supply from overheating
 
 At the time of design, no manufacturers were available for quotation (Sunday), but from experience, a one-off design like this would cost approximately $40 (halving in price if 20 were being made). 
