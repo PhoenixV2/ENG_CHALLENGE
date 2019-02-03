@@ -3,7 +3,7 @@
 1. Find dimensions for the power supply - Could use the banana to approximate, however the datasheet for the CUS30M-12 has the bolt hole and external dimensions on it
 2. Assume it is to be made as cheaply as possible for one-off manufacture, therefor injection moulding and machining are unlikely possibilities (even machining from acetyl which is relatively cheap for prototyping)
   2.1 Possible manufacturing methods:
-    - Laser Cutting
+    - Laser Cut Plastic
       - Unlikely to be a permanent solution, plus many steps during assembly
       - Very cheap
     - 3d Printing
